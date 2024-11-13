@@ -1,0 +1,8 @@
+{
+  "base-sepolia": {
+    "Koalas": {
+      "address": "0x4da183c23c99C0C1ab70A38Ba2e096Cc6D757A5C",
+      "startBlock": 17871745
+    }
+  }
+}
